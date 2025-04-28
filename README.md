@@ -1,7 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Sok Limkhy</h1>
-<h3 align="center">A Backend Wizard Exploring the Full Stack Magic!</h3>
-<h3 align="center">👨‍💻 Backend Pro + GUI Craftsman from Phnom Penh, Cambodia</h3>
+<h1 id="intro" align="center"></h1>
 
----
+<script>
+const text = "Hi there 👋, I'm Sok Limkhy - Backend Wizard & GUI Craftsman!";
+let index = 0;
 
-<h3 align="left">Connect with me:</h3>--> Why Do--GenerateClean==***Fresh JS ZIZZ!
+function typeWriter() {
+    if (index < text.length) {
+        document.getElementById("intro").innerHTML += text.charAt(index);
+        index++;
+        setTimeout(typeWriter, 70); // typing speed
+    }
+}
+window.onload = typeWriter;
+</script>
