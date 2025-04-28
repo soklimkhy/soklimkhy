@@ -1,6 +1,5 @@
-<h1 align="center">Hello World🌎</h1>
+<h1 align="center">BLESS🌎</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/HkFkuxrcSjeAhszTpS/giphy.gif" alt="Cat Typing Animation" width="400"/>
-  <h3 align="center">Vibe Coding</h3>
+  <img src="https://media.giphy.com/media/HkFkuxrcSjeAhszTpS/giphy.gif" alt="Cat Typing Animation" width="500"/>
 </div>
