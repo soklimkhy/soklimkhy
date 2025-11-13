@@ -1,3 +1,1 @@
-## 🚀 Code Mode: Activated
-> “When you push to `main` for the first time and instantly regret everything.” 😅
----
+## 🚀 ##
