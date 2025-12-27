@@ -1,10 +1,10 @@
 <!-- Right-aligned main cat GIF -->
-<img align="left" height="149" src="https://media1.tenor.com/m/Uk-8rhVi_iEAAAAd/cat-meme-cat.gif" />
-<img align="left" height="148" src="https://media1.tenor.com/m/Uk-8rhVi_iEAAAAd/cat-meme-cat.gif" />
-<img align="left" height="149" src="https://media1.tenor.com/m/Uk-8rhVi_iEAAAAd/cat-meme-cat.gif" />
-<img align="left" height="148" src="https://media1.tenor.com/m/Uk-8rhVi_iEAAAAd/cat-meme-cat.gif" />
-<img align="left" height="149" src="https://media1.tenor.com/m/Uk-8rhVi_iEAAAAd/cat-meme-cat.gif" />
-<img align="left" height="148" src="https://media1.tenor.com/m/Uk-8rhVi_iEAAAAd/cat-meme-cat.gif" />
+<img align="left" height="150" src="https://media1.tenor.com/m/Uk-8rhVi_iEAAAAd/cat-meme-cat.gif" />
+<img align="left" height="150" src="https://media1.tenor.com/m/Uk-8rhVi_iEAAAAd/cat-meme-cat.gif" />
+<img align="left" height="150" src="https://media1.tenor.com/m/Uk-8rhVi_iEAAAAd/cat-meme-cat.gif" />
+<img align="left" height="150" src="https://media1.tenor.com/m/Uk-8rhVi_iEAAAAd/cat-meme-cat.gif" />
+<img align="left" height="150" src="https://media1.tenor.com/m/Uk-8rhVi_iEAAAAd/cat-meme-cat.gif" />
+
 
 <!-- Horizontal row of additional GIFs -->
 
