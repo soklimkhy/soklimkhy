@@ -15,8 +15,6 @@
 
 ###
 
-### 🟡 Pac-Man Eating My Contribution Graph
-![Pac-Man animation](./pacman.svg)
-
+![Pac-Man contribution graph](https://raw.githubusercontent.com/soklimkhy/soklimkhy/main/pacman.svg)
 
 ###
